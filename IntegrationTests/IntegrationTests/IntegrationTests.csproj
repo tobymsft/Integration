@@ -75,7 +75,6 @@
     <Compile Include="ODataResponse.cs" />
     <Compile Include="PartyAddress.cs" />
     <Compile Include="RestClientBuilder.cs" />
-    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
